@@ -1,0 +1,2 @@
+# Sentiment-Analysis-to-Gauge-Mental-Health-Trends-among-Students-
+It aims to automatically detect and classify mental health conditions from textual data using a state-of-the-art Deep Learning approach. By fine-tuning the DistilRoBERTa-base transformer model, we can categorize student statements into one of seven mental health categories, providing a powerful tool for early intervention and trend analysis.
